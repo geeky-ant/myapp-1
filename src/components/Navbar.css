@@ -1,0 +1,12 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.dropdown {
+    display: flex;
+    position: absolute;
+    margin-left: 166px;
+    margin-top: -9px;
+}
