@@ -1,0 +1,9 @@
+.card-container {
+    display: block;
+    background-color: #f6f9f9;
+    border: 1px solid grey;
+}
+
+.project-name {
+   color: rgb(253, 253, 253);
+}
